@@ -177,6 +177,10 @@ header {
 }
 
 @media screen and (max-width: 378px) {
+  .banner__content {
+    max-width: 250px;
+  }
+
   .banner__title {
     font-size: 2.25rem;
   }
